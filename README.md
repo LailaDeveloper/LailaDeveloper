@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F8F8F2&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Libourki+Laila;" alt="Typing SVG" /></a>
 </p>
 <div align="center">
-<img alt="coding" width=250 src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" >
+<img alt="coding" width=300 src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" >
 </div>
 
 ---
