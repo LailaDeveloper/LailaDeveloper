@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me 
 
-I am a Computer Science Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
   - :telescope: You can find a collection of my work on <a href="https://github.com/LailaDeveloper">GitHub</a>.
   - :seedling: Currently exploring **cutting-edge technologies in the field of Computer Science**.
 
@@ -27,6 +27,7 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### :hammer_and_wrench: Languages and Tools 
 
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="" width="40" height="40"/>&nbsp;
@@ -144,4 +145,4 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### 🌐 Socials
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LailaDeveloper)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/chaymae-hamdoune-811513269)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila-libourki-b6a4bb256/)
