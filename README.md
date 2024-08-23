@@ -53,7 +53,6 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
     <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="" alt="" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
 ---
